@@ -115,8 +115,7 @@ Sci. Technol.* **2015**, 51 (60).
 Fang, M.; **Getzinger, G. J.** (co-first author); Cooper, E. M.; Clark, B. W.; Garner,
 L. V. T.; Giulio, R. T. D.; Ferguson, P. L.; Stapleton, H. M.,
 Effect-directed analysis of Elizabeth river pore water: Developmental
-toxicity in zebrafish (Danio rerio). *Environ Toxicol Chem* **2014**,
-30. [10.1002/etc.2738](http://dx.doi.org/10.1002/etc.2738)
+toxicity in zebrafish (Danio rerio). *Environ Toxicol Chem* **2014**, 30. [10.1002/etc.2738](http://dx.doi.org/10.1002/etc.2738)
 
 Stapleton, H.M.; Sharma, S.; **Getzinger, G. J.**; Ferguson, P.L.;
 Gabriel, T.; Webster, F.; Blum, A. Novel and High Volume Flame
