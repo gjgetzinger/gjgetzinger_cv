@@ -1,0 +1,114 @@
+\documentclass[letterpaper,10pt]{article}
+
+%A Few Useful Packages
+\usepackage{marvosym}
+\usepackage{fontspec} 					%for loading fonts
+\usepackage{xunicode,xltxtra,url,parskip} 	%other packages for formatting
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[
+  margin=1in,
+  includefoot,
+  footskip=30pt, 
+  headheight=2cm, 
+  headsep=24pt
+]{geometry}
+\usepackage{layout}
+\usepackage{supertabular} 				%for Grades
+\usepackage{titlesec}					%custom \section
+\usepackage{multirow}
+\usepackage{etaremune}
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\usepackage{longtable}
+\usepackage{setspace}
+\usepackage{color,soul}
+\renewcommand{\headrulewidth}{0pt}
+\usepackage{wrapfig}
+\usepackage{lastpage}
+\usepackage{amsmath}
+\usepackage{enumitem}
+\usepackage{pdfpages} %for including publications 
+\usepackage{graphicx} %for siganture
+\pagestyle{fancyplain}
+\fancyhf{}
+
+\lfoot{\fancyplain{}{\small Gordon J. Getzinger}}
+\cfoot{\fancyplain{}{\small \today}}
+
+%Setup hyperref package, and colours for links
+\usepackage{hyperref}
+\definecolor{linkcolour}{rgb}{0,0,0}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+%FONTS
+\defaultfontfeatures{Mapping=tex-text}
+\renewcommand{\familydefault}{\sfdefault}
+
+\newcommand{\etal}{\textit{et al}. }
+\newcommand{\ie}{\textit{i}.\textit{e}., }
+\newcommand{\eg}{\textit{e}.\textit{g}. }
+
+%\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titleformat{\section}{\large\rmfamily\scshape\raggedright}{}{0em}{}[\titlerule]
+
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\titlespacing\subsection{0pt}{3pt}{0pt}
+\titlespacing\subsubsection{0pt}{3pt}{0pt}
+
+\titleformat*{\subsection}{\normalsize\bfseries}
+\titleformat*{\subsubsection}{\normalsize\bfseries}
+\titleformat*{\paragraph}{\large\bfseries}
+\titleformat*{\subparagraph}{\large\bfseries}
+\hyphenation{im-pre-se}
+
+%-------------WATERMARK TEST [**not part of a CV**]---------------
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+
+
+
+\begin{document}
+
+\section{Peer-Reviewed Journal Publications}
+\begin{etaremune}
+%
+\item {\bfseries Getzinger, G.J.}; Higgins, C.P.; Ferguson, P.L.;  Structure Database and In Silico Spectral Library for Comprehensive Suspect Screening of Per- and Polyfluoroalkyl Substances (PFASs) in Environmental Media by High-resolution Mass Spectrometry, \emph{Analytical Chemistry} {\bfseries 2021}, \href{https://doi.org/10.1021/acs.analchem.0c04109}{\textcolor{blue}{10.1021/acs.analchem.0c04109}}
+%
+\item {\bfseries Getzinger, G.J.}; Ferguson, P.L.;  Illuminating the exposome with high-resolution accurate-mass mass spectrometry and nontargeted analysis, \emph{Current Opinion in Environmental Science \& Health} {\bfseries 2020}, \href{https://doi.org/10.1016/j.coesh.2020.05.005}{\textcolor{blue}{10.1016/j.coesh.2020.05.005}}
+% 
+\item Manfrin, A.; Nizkorodov, S.; Malecha, K.; {\bfseries Getzinger, G.J.}; McNeill, K.; Borduas-Dedekind, N. Reactive Oxygen Species Production From Secondary Organic Aerosols: The Importance of Singlet Oxygen.  \emph{Environ. Sci. Technol.} {\bfseries 2019}, \href{https://doi.org/10.1021/acs.est.9b01609}{\textcolor{blue}{10.1021/acs.est.9b01609}}
+%
+\item Evans, M.;  {\bfseries Getzinger, G. J.} ; Luek, J.; Hanson, A.; McLaughlin, M.; Blotevogel, J.; Welch, S.; Nicora, C.; Purvine, S.; Xu, C.; Cole, D.; Darrah, T.; Hoyt ,D.; Metz, T.; Ferguson, P.L.; Lipton, M.; Wilkins, M.; Mouser, P. In situ transformation of ethoxylate and glycol surfactants by shale-colonizing microorganisms during hydraulic fracturing. \emph{The ISME Journal} {\bfseries 2019}, \href{https://doi.org/10.1038/s41396-019-0466-0}{\textcolor{blue}{10.1038/s41396-019-0466-0}}
+%
+\item De Hoe,G; Zumstein, Z; {\bfseries Getzinger, G.J.}, Ruegsegger, I; Kohler, H.E.; Maurer-Jones, M.A.; Sander, M; Hillmyer, M.A.; McNeill, K.. Photochemical Transformation of Poly(butylene adipate-co-terephthalate) and Its Effects on Enzymatic Hydrolyzability. \emph{Environ. Sci. Technol.} {\bfseries 2019}, \href{http://dx.doi.org/10.1021/acs.est.8b06458}{\textcolor{blue}{10.1021/acs.est.8b06458}}
+%
+\item Walpen, N.; Lau, M.; Fiskal, A.; {\bfseries Getzinger, G. J.}; Meyer, S; Nelson, T; Lever, M; Schroth, M.H.; Sander, M, Oxidation of Reduced Peat Particulate Organic Matter by Dissolved Oxygen: Quantification of Apparent Rate Constants in the Field. \emph{Environ. Sci. Technol.} {\bfseries 2018}, 52(19) \href{http://dx.doi.org/10.1021/acs.est.8b03419}{\textcolor{blue}{10.1021/acs.est.8b03419}}
+%
+\item Walpen, N.; {\bfseries Getzinger, G. J.}; Schroth, M.H.; Sander, M, Electron-donating Phenolic and Electron-accepting Quinone Moieties in Peat Dissolved Organic Matter: Quantities and Redox Transformations in the Context of Peat Biogeochemistry. \emph{Environ. Sci. Technol.} {\bfseries 2018}, 52 (9). \href{http://dx.doi.org/10.1021/acs.est.8b00594}{\textcolor{blue}{10.1021/acs.est.8b00594}}
+%
+\item Hoelzer, K.; Sumner, A. J.; Karatum, O.; Nelson, R. K.; Drollette, B. D.; O'Connor, M. P.; D'Ambro, E. L.; {\bfseries Getzinger, G. J.}; Ferguson, P. L.; Reddy, C. M.; Elsner, M.; Plata, D. L., Indications of Transformation Products from Hydraulic Fracturing Additives in Shale-Gas Wastewater. \emph{Environ. Sci. Technol.} {\bfseries 2016}, 50 (15).\href{http://dx.doi.org/10.1021/acs.est.6b00430}{\textcolor{blue}{10.1021/acs.est.6b00430}}
+%
+\item Li, H; { \bfseries Getzinger, G. J.}; Ferguson, P.L.; Orihuela, B; Zhu, Mei; Rittschof, D. Effects of Toxic Leachates from Commercial Plastics on Larval Survival 
+  and Settlement of the Barnacle Amphibalanus amphitrite. \emph{Environ. Sci. Technol.} {\bfseries 2015}, 50 (2). \href{http://dx.doi.org/10.1021/acs.est.5b02781}{\textcolor{blue}{10.1021/acs.est.5b02781}}
+  %
+\item { \bfseries Getzinger, G. J.}; O'Connor, M.P.; Hoelzer, K.; Drollette, B.D.; Karatum, O.; Deshusses, M.A.; Ferguson, P.L.; Elsner, M.; Plata, D.L. Natural Gas Residual Fluids: Sources, Endpoints, and Organic Chemical Composition after Centralized Waste Treatment in Pennsylvania. \emph{Environ. Sci. Technol.} {\bfseries 2015}, 51 (60). \href{http://dx.doi.org/10.1021/acs.est.5b00471}{\textcolor{blue}{10.1021/acs.est.5b00471}}
+%
+\item Fang, M.; { \bfseries Getzinger, G. J.}$^*$; Cooper, E. M.; Clark, B. W.; Garner, L. V. T.; Giulio, R. T. D.; Ferguson, P. L.; Stapleton, H. M., Effect-directed analysis of Elizabeth river pore water: Developmental toxicity in zebrafish (Danio rerio). \emph{Environ Toxicol Chem} {\bfseries 2014}, 30. \href{http://dx.doi.org/10.1002/etc.2738}{\textcolor{blue}{ 10.1002/etc.2738}} \\ $^*$ co-first author. 
+%
+\item Stapleton, H.M.; Sharma, S.; {\bfseries Getzinger, G. J.}; Ferguson, P.L.; Gabriel, T.; Webster, F.; Blum, A. Novel and High Volume Flame Retardants in US Couches Reflective of the 2005 PentaBDE Phase Out. \emph{Environ. Sci. Technol.} {\bfseries 2012}, 46 (24). \href{http://dx.doi.org/10.1021/es303471d}{\textcolor{blue}{10.1021/es303471d}}.
+\end{etaremune}
+%
+%MANUSCRIPTS IN REVISION
+\section{Manuscripts in Revision}
+\begin{etaremune}
+\item {\bfseries Getzinger, G.J.}; Ferguson, P.L.;  High-throughput Trace-level Suspect Screening for Per- and Polyfluoroalkyl Substances in Environmental Waters by Peak-focusing Online Solid Phase Extraction and High-resolution Mass Spectrometry, \emph{ES\&T Water} 
+\end{etaremune}
+%
+
+\end{document}
