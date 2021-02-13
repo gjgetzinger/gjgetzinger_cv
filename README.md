@@ -50,18 +50,18 @@ Peer-Reviewed Journal Publications
 and In Silico Spectral Library for Comprehensive Suspect Screening of
 Per- and Polyfluoroalkyl Substances (PFASs) in Environmental Media by
 High-resolution Mass Spectrometry, *Analytical Chemistry* **2021**,
-[[10.1021/acs.analchem.0c04109]{style="color: blue"}](https://doi.org/10.1021/acs.analchem.0c04109)
+[10.1021/acs.analchem.0c04109](https://doi.org/10.1021/acs.analchem.0c04109)
 
 **Getzinger, G.J.**; Ferguson, P.L.; Illuminating the exposome with
 high-resolution accurate-mass mass spectrometry and nontargeted
 analysis, *Current Opinion in Environmental Science & Health* **2020**,
-[[10.1016/j.coesh.2020.05.005]{style="color: blue"}](https://doi.org/10.1016/j.coesh.2020.05.005)
+[10.1016/j.coesh.2020.05.005](https://doi.org/10.1016/j.coesh.2020.05.005)
 
 Manfrin, A.; Nizkorodov, S.; Malecha, K.; **Getzinger, G.J.**; McNeill,
 K.; Borduas-Dedekind, N. Reactive Oxygen Species Production From
 Secondary Organic Aerosols: The Importance of Singlet Oxygen. *Environ.
 Sci. Technol.* **2019**,
-[[10.1021/acs.est.9b01609]{style="color: blue"}](https://doi.org/10.1021/acs.est.9b01609)
+[10.1021/acs.est.9b01609](https://doi.org/10.1021/acs.est.9b01609)
 
 Evans, M.; **Getzinger, G. J.** ; Luek, J.; Hanson, A.; McLaughlin, M.;
 Blotevogel, J.; Welch, S.; Nicora, C.; Purvine, S.; Xu, C.; Cole, D.;
@@ -69,62 +69,62 @@ Darrah, T.; Hoyt ,D.; Metz, T.; Ferguson, P.L.; Lipton, M.; Wilkins, M.;
 Mouser, P. In situ transformation of ethoxylate and glycol surfactants
 by shale-colonizing microorganisms during hydraulic fracturing. *The
 ISME Journal* **2019**,
-[[10.1038/s41396-019-0466-0]{style="color: blue"}](https://doi.org/10.1038/s41396-019-0466-0)
+[10.1038/s41396-019-0466-0](https://doi.org/10.1038/s41396-019-0466-0)
 
 De Hoe,G; Zumstein, Z; **Getzinger, G.J.**, Ruegsegger, I; Kohler, H.E.;
 Maurer-Jones, M.A.; Sander, M; Hillmyer, M.A.; McNeill, K..
 Photochemical Transformation of Poly(butylene adipate-co-terephthalate)
 and Its Effects on Enzymatic Hydrolyzability. *Environ. Sci. Technol.*
 **2019**,
-[[10.1021/acs.est.8b06458]{style="color: blue"}](http://dx.doi.org/10.1021/acs.est.8b06458)
+[10.1021/acs.est.8b06458](http://dx.doi.org/10.1021/acs.est.8b06458)
 
 Walpen, N.; Lau, M.; Fiskal, A.; **Getzinger, G. J.**; Meyer, S; Nelson,
 T; Lever, M; Schroth, M.H.; Sander, M, Oxidation of Reduced Peat
 Particulate Organic Matter by Dissolved Oxygen: Quantification of
 Apparent Rate Constants in the Field. *Environ. Sci. Technol.* **2018**,
 52(19)
-[[10.1021/acs.est.8b03419]{style="color: blue"}](http://dx.doi.org/10.1021/acs.est.8b03419)
+[10.1021/acs.est.8b03419](http://dx.doi.org/10.1021/acs.est.8b03419)
 
 Walpen, N.; **Getzinger, G. J.**; Schroth, M.H.; Sander, M,
 Electron-donating Phenolic and Electron-accepting Quinone Moieties in
 Peat Dissolved Organic Matter: Quantities and Redox Transformations in
 the Context of Peat Biogeochemistry. *Environ. Sci. Technol.* **2018**,
 52 (9).
-[[10.1021/acs.est.8b00594]{style="color: blue"}](http://dx.doi.org/10.1021/acs.est.8b00594)
+[10.1021/acs.est.8b00594](http://dx.doi.org/10.1021/acs.est.8b00594)
 
 Hoelzer, K.; Sumner, A. J.; Karatum, O.; Nelson, R. K.; Drollette, B.
 D.; O'Connor, M. P.; D'Ambro, E. L.; **Getzinger, G. J.**; Ferguson, P.
 L.; Reddy, C. M.; Elsner, M.; Plata, D. L., Indications of
 Transformation Products from Hydraulic Fracturing Additives in Shale-Gas
 Wastewater. *Environ. Sci. Technol.* **2016**, 50
-(15).[[10.1021/acs.est.6b00430]{style="color: blue"}](http://dx.doi.org/10.1021/acs.est.6b00430)
+(15). [10.1021/acs.est.6b00430](http://dx.doi.org/10.1021/acs.est.6b00430)
 
 Li, H; **Getzinger, G. J.**; Ferguson, P.L.; Orihuela, B; Zhu, Mei;
 Rittschof, D. Effects of Toxic Leachates from Commercial Plastics on
 Larval Survival and Settlement of the Barnacle Amphibalanus amphitrite.
 *Environ. Sci. Technol.* **2015**, 50 (2).
-[[10.1021/acs.est.5b02781]{style="color: blue"}](http://dx.doi.org/10.1021/acs.est.5b02781)
+[10.1021/acs.est.5b02781](http://dx.doi.org/10.1021/acs.est.5b02781)
 
  **Getzinger, G. J.**; O'Connor, M.P.; Hoelzer, K.; Drollette, B.D.;
 Karatum, O.; Deshusses, M.A.; Ferguson, P.L.; Elsner, M.; Plata, D.L.
 Natural Gas Residual Fluids: Sources, Endpoints, and Organic Chemical
 Composition after Centralized Waste Treatment in Pennsylvania. *Environ.
 Sci. Technol.* **2015**, 51 (60).
-[[10.1021/acs.est.5b00471]{style="color: blue"}](http://dx.doi.org/10.1021/acs.est.5b00471)
+[10.1021/acs.est.5b00471](http://dx.doi.org/10.1021/acs.est.5b00471)
 
-Fang, M.; **Getzinger, G. J.**$^*$; Cooper, E. M.; Clark, B. W.; Garner,
+Fang, M.; **Getzinger, G. J.**^*^; Cooper, E. M.; Clark, B. W.; Garner,
 L. V. T.; Giulio, R. T. D.; Ferguson, P. L.; Stapleton, H. M.,
 Effect-directed analysis of Elizabeth river pore water: Developmental
 toxicity in zebrafish (Danio rerio). *Environ Toxicol Chem* **2014**,
-30. [[
-10.1002/etc.2738]{style="color: blue"}](http://dx.doi.org/10.1002/etc.2738)\
-$^*$ co-first author.
+30. [10.1002/etc.2738](http://dx.doi.org/10.1002/etc.2738)
+
+^*^ co-first author.
 
 Stapleton, H.M.; Sharma, S.; **Getzinger, G. J.**; Ferguson, P.L.;
 Gabriel, T.; Webster, F.; Blum, A. Novel and High Volume Flame
 Retardants in US Couches Reflective of the 2005 PentaBDE Phase Out.
 *Environ. Sci. Technol.* **2012**, 46 (24).
-[[10.1021/es303471d]{style="color: blue"}](http://dx.doi.org/10.1021/es303471d).
+[10.1021/es303471d](http://dx.doi.org/10.1021/es303471d).
 
 Manuscripts in Revision
 =======================
