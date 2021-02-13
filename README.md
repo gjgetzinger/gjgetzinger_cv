@@ -1,6 +1,6 @@
----
-title: Gordon J. Getzinger, Ph.D.
----
+
+Gordon J. Getzinger, Ph.D.
+==========================
 
 [ORCID 0000-0002-5628-1425](https://orcid.org/0000-0002-5628-1425) \
 [Google Scholar](https://scholar.google.com/citations?user=kASr4hEAAAAJ&hl=en) \
