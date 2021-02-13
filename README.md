@@ -1,21 +1,12 @@
-\setlength{\voffset}{0in}
-\rhead{}
-\lhead{}
-\lfoot{\fancyplain{}{\footnotesize Gordon J. Getzinger}}
-\cfoot{\fancyplain{}{\footnotesize Page \thepage \hspace{1pt} of \pageref{LastPage}}}
-\newgeometry{margin=1in,
-  includefoot,
-  footskip=30pt}
-\singlespacing
-\setlength{\parindent}{0pt}
-\
- [[ORCID
-0000-0002-5628-1425]{style="color: blue"}](https://orcid.org/0000-0002-5628-1425)\
-73 Martin St. Apt 45, Cambridge, MA\
-(330) 593-9622\
+---
+title: Gordon J. Getzinger, Ph.D.
+---
+
+[ORCID 0000-0002-5628-1425](https://orcid.org/0000-0002-5628-1425) \
+[Google Scholar](https://scholar.google.com/citations?user=kASr4hEAAAAJ&hl=en) \
 <ggetzinger@exponent.com>
 
-\rfoot{\footnotesize Curriculum vitae}
+
 Experience
 ==========
 
